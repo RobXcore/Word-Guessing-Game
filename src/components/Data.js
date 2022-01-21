@@ -15,7 +15,7 @@ function Data() {
 
 	useEffect(() => {
 		getData();
-	}, [sentenceId]);
+	});
 
 	const checkCorrect = (e) => {
 		if(e.target.value === e.target.placeholder || e.target.value === ' ' ){

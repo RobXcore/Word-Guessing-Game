@@ -1,5 +1,5 @@
 {
-	"name": "Word-Guessing-Game",
+	"name": "wordguessinggame",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {

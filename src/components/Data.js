@@ -71,7 +71,7 @@ function Data() {
 						
 						</input>
 					)}
-					{<input onChange={checkCorrect} maxLength={1}  >
+					{<input className='space' onChange={checkCorrect} maxLength={1}  >
 					
 					
 					</input>}
